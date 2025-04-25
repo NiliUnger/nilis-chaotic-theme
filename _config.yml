@@ -1,5 +1,5 @@
-title: tonic-starter
-description: ""
+title: teenage-blues
+description: "*teenage-blues* is for the not children, yet not adults, with emotions of varying colors"
 encoding: utf-8
 
 exclude: ["README.md", "LICENSE", "*.gem", "*.gemspec", "Gemfile.lock"]
